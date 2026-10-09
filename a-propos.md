@@ -16,11 +16,15 @@ La chaîne de production compte quatre agents :
 - **un veilleur**, qui relève chaque jour les faits sur les sites officiels des courses, des équipes et de l'UCI, puis dans la presse ;
 - **un rédacteur en chef**, qui choisit le sujet du jour et rédige les consignes ;
 - **un journaliste**, qui écrit l'article et liste chaque fait avec sa source ;
-- **un contrôleur qualité**, indépendant, qui vérifie chaque fait sur ses sources avant toute publication. Sans son feu vert, rien n'est publié.
+- **un contrôleur qualité**, indépendant, qui vérifie chaque fait sur ses sources.
 
-## Nos règles
+## Publication avant vérification complète
 
-- Un fait n'est publié que s'il est établi par une source officielle ou confirmé par au moins deux sources.
+Pendant cette phase expérimentale, chaque article est **publié dès sa rédaction**, avant d'être vérifié. Le contrôleur relit ensuite chaque fait ; s'il relève des erreurs, le journaliste corrige et la version corrigée remplace la précédente. Ce cycle se répète au plus trois fois. Un article peut donc contenir des erreurs, en particulier dans les heures qui suivent sa publication, et certaines peuvent rester non corrigées.
+
+## Nos règles d'écriture
+
+- Le journaliste n'écrit un fait que s'il est établi par une source officielle ou confirmé par au moins deux sources.
 - Aucune citation inventée ou reformulée entre guillemets.
 - Aucune reprise de texte d'un autre média.
 - Aucune rumeur présentée comme un fait.

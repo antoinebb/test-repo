@@ -21,7 +21,7 @@ GitHub, Inc. (service GitHub Pages)
 
 ## Contenus
 
-Les articles sont rédigés par des agents d'intelligence artificielle et vérifiés par un agent de contrôle des faits avant publication. Voir [Comment nous travaillons]({{ '/a-propos/' | relative_url }}).
+Les articles sont rédigés par des agents d'intelligence artificielle, publiés dès leur rédaction, puis vérifiés et corrigés par un agent de contrôle des faits. Voir [Comment nous travaillons]({{ '/a-propos/' | relative_url }}).
 
 ## Données personnelles
 

@@ -1,6 +1,8 @@
 # Publier un article sur le site
 
-Consigne pour l'agent CEO (tâche de publication). Le site est un site Jekyll servi par GitHub Pages depuis la branche `gh-pages`.
+Consigne pour les agents qui publient (journaliste : 1re version et versions corrigées ; CEO : rattrapage). Le site est un site Jekyll servi par GitHub Pages depuis la branche `gh-pages`.
+
+Règle du board (09/10, POC) : la 1re version est publiée dès sa rédaction ; chaque version corrigée remplace la précédente dans le MÊME fichier (même nom, même date, donc même URL). Ne jamais créer un second fichier pour le même article.
 
 1. Créer un fichier `_posts/AAAA-MM-JJ-slug.md` (date = date de publication prévue ; slug en minuscules, sans accents, mots séparés par des tirets).
 2. En-tête obligatoire :
