@@ -28,7 +28,8 @@ Pendant cette phase expérimentale, chaque article est **publié dès sa rédact
 - Aucune citation inventée ou reformulée entre guillemets.
 - Aucune reprise de texte d'un autre média.
 - Aucune rumeur présentée comme un fait.
-- Santé, accidents, décès : uniquement des informations officielles.
+- Nous n'annonçons pas les décès.
+- Santé et accidents : uniquement des informations officielles.
 
 ## Une erreur ?
 
