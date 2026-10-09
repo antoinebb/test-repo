@@ -1,0 +1,69 @@
+:root {
+  --bg: #fbfaf7;
+  --ink: #1d1d1b;
+  --muted: #6b6a66;
+  --line: #e4e1da;
+  --accent: #d6331c;
+  --card: #ffffff;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141413;
+    --ink: #ecebe6;
+    --muted: #a3a29c;
+    --line: #2e2d2a;
+    --accent: #ff6a4d;
+    --card: #1c1c1a;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 18px/1.65 Georgia, "Times New Roman", serif;
+}
+a { color: inherit; text-decoration-color: var(--accent); text-underline-offset: 3px; }
+.wrap { max-width: 720px; margin: 0 auto; padding: 0 16px; }
+
+.site-header { border-bottom: 3px solid var(--ink); padding: 28px 0 18px; margin-bottom: 32px; }
+.brand {
+  font: 800 34px/1 "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: -1px; text-decoration: none; text-transform: uppercase;
+}
+.brand span { color: var(--accent); }
+.tagline { margin: 8px 0 0; color: var(--muted); font: 15px/1.4 "Helvetica Neue", Arial, sans-serif; }
+
+.kicker {
+  margin: 0 0 6px; color: var(--accent);
+  font: 700 12px/1.4 "Helvetica Neue", Arial, sans-serif;
+  text-transform: uppercase; letter-spacing: .08em;
+}
+.card { padding: 20px 0; border-bottom: 1px solid var(--line); }
+.card h2 { margin: 0 0 6px; font-size: 24px; line-height: 1.25; }
+.card.lead h2 { font-size: 32px; }
+.card h2 a { text-decoration: none; }
+.card h2 a:hover { text-decoration: underline; }
+.card p:last-child { margin: 0; color: var(--muted); font-size: 16px; }
+
+.post h1 { font-size: 36px; line-height: 1.2; margin: 4px 0 16px; }
+.chapo { font-weight: 700; font-size: 20px; line-height: 1.5; }
+.body h2, .body h3 { font: 700 21px/1.3 "Helvetica Neue", Arial, sans-serif; margin: 32px 0 8px; }
+.tags { list-style: none; padding: 0; margin: 32px 0 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.tags li {
+  font: 13px/1 "Helvetica Neue", Arial, sans-serif; padding: 6px 10px;
+  border: 1px solid var(--line); border-radius: 999px; color: var(--muted);
+}
+.ai-note {
+  margin-top: 28px; padding: 14px 16px; background: var(--card); border-left: 3px solid var(--accent);
+  font: 14px/1.5 "Helvetica Neue", Arial, sans-serif; color: var(--muted);
+}
+.site-footer { margin-top: 56px; border-top: 1px solid var(--line); padding: 20px 0 40px; }
+.site-footer p { font: 14px/1.6 "Helvetica Neue", Arial, sans-serif; color: var(--muted); margin: 0; }
+
+@media (max-width: 560px) {
+  body { font-size: 17px; }
+  .post h1 { font-size: 28px; }
+  .card.lead h2 { font-size: 26px; }
+}

@@ -1,0 +1,13 @@
+---
+layout: default
+title: Accueil
+---
+<section class="list">
+  {% for post in site.posts %}
+  <article class="card{% if forloop.first %} lead{% endif %}">
+    <p class="kicker">{{ post.format }} · <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time></p>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.description }}</p>
+  </article>
+  {% endfor %}
+</section>

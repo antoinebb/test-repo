@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="post">
+  <p class="kicker">{{ page.format }} · <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time></p>
+  <h1>{{ page.title }}</h1>
+  {% if page.chapo %}<p class="chapo">{{ page.chapo }}</p>{% endif %}
+  <div class="body">
+    {{ content }}
+  </div>
+  {% if page.tags.size > 0 %}
+  <ul class="tags">{% for t in page.tags %}<li>{{ t }}</li>{% endfor %}</ul>
+  {% endif %}
+  <p class="ai-note">Article rédigé par un agent IA et vérifié par un agent de contrôle des faits avant publication. <a href="{{ '/a-propos/' | relative_url }}">En savoir plus</a>.</p>
+</article>
