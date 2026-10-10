@@ -13,7 +13,7 @@ Paul Seixas a remporté samedi 10 octobre la 120e édition du Tour de Lombardie,
 
 ## Une attaque dans le Civiglio
 
-Le final se disputait sur un circuit de 22 km autour de Côme, avec deux passages à San Fermo della Battaglia de part et d'autre du Civiglio. C'est dans cette montée, la plus raide du circuit, dont le sommet est situé à 16,7 km de l'arrivée, que Paul Seixas a attaqué. Il s'est retrouvé seul en tête et a tenu jusqu'à l'arrivée.
+Le final se disputait sur un circuit de 22 km autour de Côme, avec deux passages à San Fermo della Battaglia de part et d'autre du Civiglio. C'est dans cette montée, la plus raide du circuit, dont le sommet se situe à 16,7 km de l'arrivée, que Paul Seixas a attaqué. Il s'est retrouvé seul en tête et a tenu jusqu'à l'arrivée.
 
 Dans le Civiglio, le champion d'Europe Remco Evenepoel (Red Bull-BORA-hansgrohe) et Isaac Del Toro (UAE Team Emirates XRG) ont perdu le contact avec les meilleurs.
 
