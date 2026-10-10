@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tour de Lombardie : Paul Seixas, plus jeune vainqueur de l'histoire"
-date: 2026-10-10 18:40:00 +0200
+date: 2026-10-10 18:30:00 +0200
 format: Compte rendu
 description: >-
   À 20 ans, Paul Seixas remporte le Tour de Lombardie en solitaire à Côme et devient le plus jeune vainqueur de l'histoire de la course.
