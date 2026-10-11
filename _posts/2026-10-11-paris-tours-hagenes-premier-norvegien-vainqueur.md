@@ -14,7 +14,7 @@ Per Strand Hagenes (Visma-Lease a Bike) a remporté dimanche 11 octobre la 120e 
 
 ## Une première pour la Norvège
 
-Hagenes est le premier Norvégien à inscrire son nom au palmarès de Paris-Tours. La Norvège devient la 15e nation à avoir vu l'un de ses coureurs s'imposer sur la course.
+Hagenes est le premier Norvégien à inscrire son nom au palmarès de Paris-Tours.
 
 ## Neuf côtes et dix chemins de vignes
 
@@ -24,7 +24,7 @@ Les 165 coureurs au départ de Chartres ont rallié Tours après environ 216 kil
 
 Douze coureurs se sont dégagés, parmi lesquels Yves Lampaert, Stefan Bissegger, Jonas Rutsch et Julius van den Berg. Leur avance a dépassé les trois minutes au kilomètre 100. Il restait cinq rescapés devant (Van den Berg, Louvel, Bissegger, Ingebrigtsen et Lampaert) lorsque le peloton les a repris, vers 21 kilomètres de l'arrivée.
 
-## Les attaques dans les dix derniers kilomètres
+## Les attaques à partir de 21 kilomètres
 
 C'est à ce moment que Pierre Gautherat (Decathlon CMA CGM) a attaqué, dans la côte de la Vallée Chartier. Paul Lapeira et Hagenes l'ont rejoint, mais ce trio a été repris par un groupe d'une trentaine de coureurs avant les dix derniers kilomètres.
 
