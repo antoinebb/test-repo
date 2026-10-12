@@ -15,4 +15,4 @@ Le Tour de Lombardie, disputé le lendemain de l'annonce, samedi 10 octobre, a �
 
 Ce podium prolonge une fin de saison solide. Le 4 octobre, aux championnats d'Europe sur route, Ciccone a pris la deuxième place de la course élite : Remco Evenepoel l'a devancé à la photo-finish pour le titre continental, Christian Scaroni complétant le podium. L'Italien connaissait déjà le podium du Tour de Lombardie, dont il avait pris la troisième place en 2024.
 
-Sa future équipe n'a pas été annoncée officiellement.
+Pinarello-Q36.5 a annoncé le 12 octobre que Ciccone rejoindrait l'équipe à partir de 2027, avec un contrat de trois ans.
