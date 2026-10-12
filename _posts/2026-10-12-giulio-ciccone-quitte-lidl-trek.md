@@ -7,7 +7,7 @@ description: >-
   Lidl-Trek et Giulio Ciccone se séparent d'un commun accord après huit saisons, malgré un contrat jusqu'en 2029.
 chapo: >-
   Lidl-Trek et Giulio Ciccone se séparent d'un commun accord après huit saisons, alors que le contrat de l'Italien courait jusqu'en 2029. Le Tour de Lombardie, où il a terminé troisième, était sa dernière course sous le maillot de l'équipe.
-tags: ["Mercato", "Giulio Ciccone", "Lidl-Trek", "Tour de Lombardie", "Championnats d'Europe"]
+tags: ["Mercato", "Tour de Lombardie", "Championnats d'Europe"]
 ---
 Lidl-Trek a annoncé vendredi 9 octobre le départ de Giulio Ciccone. L'équipe et le coureur italien ont décidé de se séparer d'un commun accord, après huit saisons passées ensemble. Le contrat de Ciccone courait pourtant jusqu'en 2029 : il quitte donc la formation bien avant son terme.
 
