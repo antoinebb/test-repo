@@ -25,4 +25,6 @@ Robin Orins, 24 ans, coureur de l'équipe Lotto-Intermarché, a annoncé sur Ins
 
 ## Tour du Guangxi : Magnier s'impose à Chongzuo
 
-La première étape du Tour du Guangxi, courue ce mardi 13 octobre, s'est terminée à Chongzuo par un sprint du peloton. Paul Magnier (Soudal Quick-Step) l'a emporté.
+La première étape du Tour du Guangxi, courue ce mardi 13 octobre, s'est terminée à Chongzuo par un sprint du peloton. Paul Magnier (Soudal Quick-Step) l'a emporté en 3 h 00 min 23 s, devant l'Australien Sam Welsford (Netcompany Ineos) et l'Allemand Max Kanter (XDS Astana), classés dans le même temps.
+
+Sur ce parcours de 149 km au départ et à l'arrivée de Chongzuo, trois hommes se sont échappés tôt : Patrick Gamper (Jayco AlUla), Fredrik Dversnes (Uno-X Mobility) et Neilson Powless (EF Education-EasyPost). Les équipes de sprinteurs ont contrôlé leur avance et le trio a été repris à moins de dix kilomètres de l'arrivée. Dans la dernière ligne droite, Olav Kooij (Decathlon CMA CGM), pour qui son équipe avait travaillé, n'a pas pu lancer son sprint. Magnier a lui trouvé le passage pour s'imposer.
