@@ -15,11 +15,11 @@ La 2e étape du Tour du Guangxi (WorldTour), entre Chongzuo et Jingxi sur enviro
 
 ## Giro del Veneto : Covi s'impose sur le Monte Berico
 
-Le Giro del Veneto (1.Pro), couru mercredi entre Vérone et Vicenza, s'est terminé par un sprint en côte sur le Monte Berico. Alessandro Covi (Jayco AlUla) l'a emporté devant Anthon Charmig (Uno-X Mobility) et Benoît Cosnefroy (UAE Team Emirates XRG). Fabio Christen (Pinarello-Q36.5) et Christian Scaroni (XDS Astana) complètent le top 5.
+Le Giro del Veneto, couru mercredi entre Vérone et Vicenza, s'est terminé par un sprint en côte sur le Monte Berico. Alessandro Covi (Jayco AlUla) l'a emporté devant Anthon Charmig (Uno-X Mobility) et Benoît Cosnefroy (UAE Team Emirates XRG). Fabio Christen (Pinarello-Q36.5) et Christian Scaroni (XDS Astana) complètent le top 5.
 
 ## Eneco Tour : Merlier gagne à Ede
 
-Sur la 1re étape de l'Eneco Tour (2.1), une étape plate de 120 km à Ede, Tim Merlier (Soudal Quick-Step) a gagné au sprint devant Dylan Groenewegen (Unibet Rose Rockets) et Gerben Thijssen (Alpecin-Premier Tech). C'est la 13e victoire de la saison pour Merlier. Jakob Söderqvist (Lidl-Trek) reste leader du classement général. Chez les femmes, Sandrine Tas (Lotto Intermarché Ladies) a remporté la 1re étape au sprint.
+Sur la 1re étape de l'Eneco Tour, une étape plate de 120 km à Ede, Tim Merlier (Soudal Quick-Step) a gagné au sprint devant Dylan Groenewegen (Unibet Rose Rockets) et Gerben Thijssen (Alpecin-Premier Tech). C'est la 13e victoire de la saison pour Merlier. Jakob Söderqvist (Lidl-Trek) reste leader du classement général. Chez les femmes, Sandrine Tas (Lotto Intermarché Ladies) a remporté la 1re étape au sprint.
 
 ## Netcompany Ineos recrute Clément Champoussin
 
