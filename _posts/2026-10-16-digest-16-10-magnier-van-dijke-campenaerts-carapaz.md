@@ -40,4 +40,4 @@ NSN Cycling Team a annoncé l'arrivée de Richard Carapaz pour trois saisons à 
 
 ## Au programme samedi 17/10
 
-L'Eneco Tour disputera samedi sa 4e étape, entre Hoogeveen et le VAM-berg.
+L'Eneco Tour disputera samedi 17/10 sa 4e étape, entre Hoogeveen et le VAM-berg.
