@@ -40,4 +40,4 @@ NSN Cycling Team a annoncé l'arrivée de Richard Carapaz pour trois saisons à 
 
 ## Au programme samedi 17/10
 
-Le Tour du Guangxi disputera samedi sa 5e étape, et l'Eneco Tour sa 4e.
+L'Eneco Tour disputera samedi sa 4e étape, entre Hoogeveen et le VAM-berg.
