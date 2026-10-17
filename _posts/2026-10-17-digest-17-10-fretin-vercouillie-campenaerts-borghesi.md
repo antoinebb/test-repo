@@ -4,7 +4,7 @@ title: "Digest du 17/10 : Fretin, Vercouillie, Campenaerts et Borghesi"
 date: 2026-10-17 18:05:00 +0200
 format: Compte rendu
 description: >-
-  Fretin double la mise au Guangxi où Magnier reste leader ; vainqueur au Col du VAM, Vercouillie ne change rien en tête de l'Eneco Tour : Campenaerts et Nooijen.
+  Fretin double la mise au Guangxi, Magnier reste leader ; Vercouillie et Borghesi gagnent au Col du VAM, Campenaerts et Nooijen en tête.
 chapo: >-
   Milan Fretin s'impose pour la deuxième fois cette semaine au Tour du Guangxi, où Paul Magnier reste leader malgré une chute dans le dernier kilomètre. À l'Eneco Tour, Victor Vercouillie gagne au Col du VAM chez les hommes et Letizia Borghesi chez les femmes, tandis que Victor Campenaerts et Lieke Nooijen gardent la tête du classement général.
 tags: ["Digest", "Tour du Guangxi", "Eneco Tour", "Milan Fretin", "Victor Campenaerts"]
