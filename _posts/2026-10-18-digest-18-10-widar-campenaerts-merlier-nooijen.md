@@ -12,11 +12,11 @@ tags: ["Digest", "Tour du Guangxi", "Eneco Tour", "Visma-Lease a Bike", "Netcomp
 
 ## Tour du Guangxi : Widar l'emporte à Nongla
 
-Jarno Widar (Lotto Intermarché), 20 ans, a remporté la sixième et dernière étape, entre Yizhou et Nongla, en 3 h 39 min 05 s. Tom Pidcock (Pinarello-Q36.5) termine deuxième à 6 s et Louis Barré (Visma | Lease a Bike) troisième à 10 s.
+Jarno Widar (Lotto Intermarché), 20 ans, a remporté la sixième et dernière étape, à Nongla, en 3 h 39 min 05 s. Tom Pidcock (Pinarello-Q36.5) termine deuxième à 6 s et Louis Barré (Visma | Lease a Bike) troisième à 10 s.
 
-Dans le dernier kilomètre de la montée, Barré a attaqué, Pidcock a contré et seul Widar a pu suivre ce dernier, avant de le dépasser avant la ligne. Marco Brenner (Tudor) prend la quatrième place à 11 s, devant Martin Tjøtta (Uno-X Mobility) à 15 s, Juan Ayuso (Lidl-Trek) à 16 s, Peter Øxenberg (Netcompany Ineos) à 19 s, Clément Braz Afonso (Groupama-FDJ United) et Afonso Eulálio (Bahrain Victorious) à 21 s, et Maxim Van Gils (Red Bull-BORA-hansgrohe) à 23 s.
+Dans le dernier kilomètre de la montée, Barré a attaqué, Pidcock a contré et seul Widar a pu suivre ce dernier, avant de le dépasser avant la ligne. Marco Brenner (Tudor) prend la quatrième place à 11 s, devant Martin Tjøtta (Uno-X Mobility) à 15 s, Juan Ayuso (Lidl-Trek) à 16 s, Peter Øxenberg (Netcompany Ineos) à 19 s, Clément Braz Afonso (Groupama-FDJ United) à 21 s, Afonso Eulálio (Bahrain Victorious) neuvième, et Maxim Van Gils (Red Bull-BORA-hansgrohe) à 23 s.
 
-Jarno Widar gagne également le classement général final. Paul Magnier (Soudal Quick-Step), leader au départ de l'étape, perd la tête du classement.
+Jarno Widar gagne également le classement général final.
 
 ## Eneco Tour, hommes : Merlier au sprint, Campenaerts au général
 
