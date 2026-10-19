@@ -18,7 +18,7 @@ Dimanche 18 octobre, Remco Evenepoel (Red Bull-BORA-hansgrohe) a remporté le Ch
 
 Toujours dimanche, Brandon McNulty (UAE Team Emirates XRG) a gagné seul le Veneto Classic, entre Cittadella et Bassano del Grappa. C'est sa première victoire sous le maillot arc-en-ciel. Anthon Charmig (Uno-X Mobility) prend la deuxième place et Pavel Sivakov (UAE Team Emirates XRG) la troisième.
 
-McNulty a fait la différence dans la montée en gravier de Diesel Farm, à environ 10 km de l'arrivée.
+McNulty a fait la différence dans la montée en gravier de Diesel Farm.
 
 ## Japan Cup : Simmons bat Healy au sprint
 
@@ -28,7 +28,7 @@ Au 12e tour, huit coureurs se sont détachés. Healy a attaqué dans la côte de
 
 ## Mercato : Geoghegan Hart chez EF Education-EasyPost
 
-Le Britannique Tao Geoghegan Hart, vainqueur du Giro 2020, rejoindra EF Education-EasyPost à partir de 2027. Il quitte l'équipe Lidl-Trek.
+Tao Geoghegan Hart, vainqueur du Giro 2020, rejoindra EF Education-EasyPost à partir de 2027.
 
 Chez Jayco AlUla, quatre coureurs de l'équipe de développement Hagens Berman Jayco passent en WorldTour pour 2027 : les Britanniques Ben Wiggins et Jed Smithson (21 ans), l'Australien Wil Holmes et l'Irlandais Adam Rafferty (20 ans).
 
