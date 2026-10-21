@@ -6,7 +6,7 @@ format: Mercato-équipes
 description: >-
   Valgren rejoint Netcompany Ineos, Vansevenant file chez Lotto-Intermarché, arrivées chez Jayco AlUla et EF : le mercato du jour.
 chapo: >-
-  Journée mercato : Netcompany Ineos s'offre Michael Valgren pour deux ans, tandis que Mauri Vansevenant quitte Soudal Quick-Step pour Lotto-Intermarché. Jayco AlUla, EF Education-EasyPost et deux équipes féminines ont aussi officialisé des arrivées, et deux carrières s'achèvent.
+  Journée mercato : Netcompany Ineos s'offre Michael Valgren pour deux ans, tandis que Mauri Vansevenant quitte Soudal Quick-Step pour Lotto-Intermarché. Jayco AlUla, EF Education-EasyPost et EF Education-Oatly ont aussi officialisé des arrivées, Noémie Thomson est attendue chez AG Insurance-Soudal, et deux carrières s'achèvent.
 tags: ["Digest", "Mercato", "Netcompany Ineos", "Tour de France 2027"]
 ---
 
