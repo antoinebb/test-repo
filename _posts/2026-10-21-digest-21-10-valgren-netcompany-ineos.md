@@ -12,7 +12,7 @@ tags: ["Digest", "Mercato", "Netcompany Ineos", "Tour de France 2027"]
 
 ## Netcompany Ineos : Michael Valgren pour deux ans
 
-Netcompany Ineos a annoncé mercredi l'arrivée du Danois Michael Valgren, 34 ans, pour deux saisons à partir de 2027. Vainqueur de l'Amstel Gold Race et de l'Omloop Het Nieuwsblad, il a également remporté en 2026 des étapes de Tirreno-Adriatico et du Giro.
+Netcompany Ineos a annoncé mercredi l'arrivée du Danois Michael Valgren, 34 ans, pour deux saisons. Vainqueur de l'Amstel Gold Race et de l'Omloop Het Nieuwsblad, il a également remporté en 2026 des étapes de Tirreno-Adriatico et du Giro.
 
 ## Lotto-Intermarché : Mauri Vansevenant
 
@@ -24,7 +24,7 @@ Le Danois Mikkel Honoré, 29 ans, vainqueur d'une étape du Tour du Pays basque,
 
 ## Mercato féminin
 
-La Néerlandaise Bodine Vollering rejoint EF Education-Oatly, équipe WorldTour, pour trois ans à partir de 2027. La Britannique Noémie Thomson, qui court actuellement chez DAS-Hutchinson, rejoindra elle AG Insurance-Soudal en 2027.
+La Néerlandaise Bodine Vollering rejoint EF Education-Oatly pour trois ans à partir de 2027. La Britannique Noémie Thomson, qui court actuellement chez DAS-Hutchinson, rejoindra elle AG Insurance-Soudal en 2027.
 
 ## Deux fins de carrière
 
