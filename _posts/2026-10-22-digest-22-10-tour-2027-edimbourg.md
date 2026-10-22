@@ -4,7 +4,7 @@ title: "Digest du 22/10 : le Tour 2027 part d'Édimbourg"
 date: 2026-10-22 18:15:00 +0200
 format: Avant-course
 description: >-
-  Tour de France 2027 : départ d'Édimbourg, 71 km de chrono, arrivées au Grand Colombier et au Col du Portet. Tour Femmes : départ de Leeds, arrivée au Puy de Dôme.
+  Tour 2027 : départ d'Édimbourg, 71 km de chrono, arrivées au Grand Colombier et au Col du Portet. Tour Femmes : Leeds - Puy de Dôme.
 chapo: >-
   Le Tour de France 2027 partira d'Édimbourg le 2 juillet et comptera 71 km de contre-la-montre individuel, avec des arrivées au sommet au Grand Colombier et au Col du Portet. Le Tour de France Femmes s'élancera de Leeds, avec un contre-la-montre par équipes à Londres, et se terminera au sommet du Puy de Dôme. Côté mercato, Paula Blasi rejoindra Movistar.
 tags: ["Digest", "Tour de France 2027", "Mercato"]
