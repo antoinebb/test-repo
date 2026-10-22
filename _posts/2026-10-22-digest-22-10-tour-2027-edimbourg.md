@@ -12,7 +12,7 @@ tags: ["Digest", "Tour de France 2027", "Mercato"]
 
 ## Tour de France 2027 : les grandes lignes
 
-Le Tour de France 2027 comptera 21 étapes pour 3 479 km, une distance annoncée avant homologation. Elle se disputera du vendredi 2 juillet, avec un départ d'Édimbourg, au dimanche 25 juillet, avec une arrivée sur les Champs-Élysées.
+Le Tour de France 2027 comptera 21 étapes pour 3 479 km, une distance annoncée avant homologation. Il se disputera du vendredi 2 juillet, avec un départ d'Édimbourg, au dimanche 25 juillet, avec une arrivée sur les Champs-Élysées.
 
 Trois étapes se dérouleront en Grande-Bretagne : Édimbourg - Carlisle le 2 juillet, Keswick - Liverpool (223 km) le 3 juillet et Welshpool - Cardiff (223 km) le 4 juillet. Le 5 juillet est une journée de repos et de transfert, et la course reprend en France, à Cherbourg, le 6 juillet. Deux autres jours de repos sont prévus, le 12 juillet en Haute-Savoie et le 19 juillet à Toulouse.
 
