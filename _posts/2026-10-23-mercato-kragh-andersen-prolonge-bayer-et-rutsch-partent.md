@@ -10,7 +10,7 @@ chapo: >-
 tags: ["Mercato", "Lidl-Trek", "Decathlon CMA CGM", "EF Education-EasyPost", "Classement UCI"]
 ---
 
-Les équipes continuent de boucler leurs effectifs pour 2027. Prolongations, départs, arrivées inattendues et annonce de fin de carrière : voici les mouvements à retenir de cette fin de semaine.
+Les équipes continuent de boucler leurs effectifs pour 2027. Prolongations, départs, arrivées inattendues et annonce de fin de carrière : voici les mouvements à retenir de ces derniers jours.
 
 ## Les prolongations
 
