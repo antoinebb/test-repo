@@ -6,11 +6,11 @@ format: Compte rendu
 description: >-
   Championnats d'Italie du contre-la-montre à Piasco : Elisa Longo Borghini gagne chez les élites, Nicolas Milesi domine les espoirs de plus d'une minute.
 chapo: >-
-  Samedi 24 octobre à Piasco, Elisa Longo Borghini a remporté le titre chez les femmes élites sur 19,7 km, devant Alessia Vigilia et Letizia Borghesi. Chez les hommes espoirs, Nicolas Milesi s'est imposé avec 1 min 11 s d'avance, une semaine après sa victoire au Chrono des Nations.
+  Samedi 24 octobre à Piasco, Elisa Longo Borghini a remporté le titre chez les femmes élites sur 19,7 km, devant Alessia Vigilia et Letizia Borghesi. Chez les hommes espoirs, Nicolas Milesi s'est imposé avec 1 min 11 s d'avance, une semaine après sa victoire chez les espoirs au Chrono des Nations.
 tags: ["Contre-la-montre", "Nicolas Milesi", "Uno-X Mobility", "EF Education-EasyPost"]
 ---
 
-Les championnats d'Italie du contre-la-montre se sont disputés samedi 24 octobre à Piasco, dans la province de Cuneo, au Piémont. L'épreuve a distribué sept titres, des cadettes aux élites, et a été organisée par le Velo Club Esperia Piasco. Les élites féminines, les espoirs masculins, les espoirs féminines et les juniors hommes ont couvert la même distance de 19,7 kilomètres.
+Les championnats d'Italie du contre-la-montre se sont disputés samedi 24 octobre à Piasco, dans la province de Cuneo. L'épreuve a distribué sept titres, des cadettes aux élites, et a été organisée par le Velo Club Esperia Piasco. Les élites féminines, les espoirs masculins, les espoirs féminines et les juniors hommes ont couvert la même distance de 19,7 kilomètres.
 
 ## Longo Borghini devant Vigilia chez les élites
 
@@ -20,7 +20,7 @@ Chez les femmes élites, Elisa Longo Borghini a réalisé le temps de 23 min 15 
 
 La course des espoirs masculins a été plus nette encore. Nicolas Milesi a parcouru les 19,7 km en 20 min 52 s, à 56,6 km/h de moyenne. Davide Basso (Beltrami TSA Tre Colli) a pris la deuxième place à 1 min 11 s, et Davide Frigo la troisième, à 1 min 19 s.
 
-Ce titre arrive une semaine après la victoire de Milesi au Chrono des Nations, à Les Herbiers. En septembre, il avait pris la médaille d'argent du contre-la-montre espoirs aux championnats du monde de Montréal. Il rejoindra l'équipe EF Education-EasyPost à partir de 2027, pour plusieurs saisons, selon le communiqué de la formation.
+Ce titre arrive une semaine après la victoire de Milesi dans la catégorie espoirs du Chrono des Nations, à Les Herbiers. En septembre, il avait pris la médaille d'argent du contre-la-montre espoirs aux championnats du monde de Montréal. Il rejoindra l'équipe EF Education-EasyPost à partir de 2027, pour plusieurs saisons, selon le communiqué de la formation.
 
 ## Les autres titres de la journée
 
