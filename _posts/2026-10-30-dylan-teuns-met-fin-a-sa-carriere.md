@@ -9,7 +9,7 @@ chapo: >-
   Le Belge Dylan Teuns, 34 ans, a annoncé sur Instagram la fin de sa carrière professionnelle après douze saisons. Vainqueur de la Flèche Wallonne en 2022 et de deux étapes du Tour de France, il a porté les couleurs de BMC, Bahrain, Israel-Premier Tech et Cofidis.
 tags: ["Mercato", "Dylan Teuns", "Cofidis"]
 ---
-Dylan Teuns raccroche. Le Belge, né le 1er mars 1992, a annoncé le 29 octobre, dans un message publié sur son compte Instagram, qu'il mettait fin à sa carrière de coureur professionnel. Il achève douze saisons dans le peloton. Après son passage chez Cofidis, il n'avait pas de contrat pour 2027.
+Dylan Teuns raccroche. Le Belge, âgé de 34 ans, a annoncé le 29 octobre, dans un message publié sur son compte Instagram, qu'il mettait fin à sa carrière de coureur professionnel. Il achève douze saisons dans le peloton. Après son passage chez Cofidis, il n'avait pas de contrat pour 2027.
 
 ## Quatre équipes en douze ans
 
