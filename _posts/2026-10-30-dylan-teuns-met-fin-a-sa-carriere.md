@@ -13,15 +13,15 @@ Dylan Teuns raccroche. Le Belge, né le 1er mars 1992, a annoncé le 29 octobre,
 
 ## Quatre équipes en douze ans
 
-Teuns a couru chez BMC Racing Team de 2015 à 2018, puis chez Bahrain-Merida à partir de 2019, structure devenue Bahrain Victorious. Il a quitté cette équipe en cours de saison 2022 pour Israel-Premier Tech, dont il a porté le maillot jusqu'en 2024. Il a ensuite rejoint Cofidis pour la saison 2025.
+Teuns a couru chez BMC Racing Team, puis chez Bahrain-Merida, structure devenue Bahrain Victorious. Il a quitté cette équipe en cours de saison 2022 pour Israel-Premier Tech, dont il a porté le maillot jusqu'en 2024. Il a ensuite rejoint Cofidis pour la saison 2025.
 
 ## Trois classements généraux en 2017
 
-En 2017, Teuns a remporté le classement général de trois courses par étapes : le Tour de Wallonie, le Tour de Pologne et l'Arctic Race of Norway. Ces trois épreuves se disputent respectivement en Belgique, en Pologne et en Norvège. Ces trois succès, obtenus sous les couleurs de BMC Racing Team, figurent parmi les plus importants de son palmarès dans les courses par étapes.
+En 2017, Teuns a remporté le classement général de trois courses par étapes : le Tour de Wallonie, le Tour de Pologne et l'Arctic Race of Norway. Ces trois succès, obtenus sous les couleurs de BMC Racing Team, figurent parmi les plus importants de son palmarès dans les courses par étapes.
 
 ## Deux étapes sur le Tour de France
 
-Sur le Tour de France, Teuns s'est imposé à deux reprises. En 2019, il a remporté la sixième étape, terminée à La Planche des Belles Filles, dans les Vosges. En 2021, il a gagné la huitième étape, à l'arrivée au Grand-Bornand, en Haute-Savoie. Ces deux victoires d'étape ont été obtenues avec l'équipe Bahrain.
+Sur le Tour de France, Teuns s'est imposé à deux reprises. En 2019, il a remporté la sixième étape, terminée à La Planche des Belles Filles, dans le massif des Vosges. En 2021, il a gagné la huitième étape, à l'arrivée au Grand-Bornand. Ces deux victoires d'étape ont été obtenues avec l'équipe Bahrain.
 
 ## La Flèche Wallonne en point d'orgue
 
