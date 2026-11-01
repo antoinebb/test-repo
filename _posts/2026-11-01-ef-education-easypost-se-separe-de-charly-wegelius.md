@@ -13,7 +13,7 @@ Après quinze saisons, la route de Charly Wegelius et d'EF Education-EasyPost s'
 
 ## Quinze saisons dans l'équipe
 
-Charly Wegelius avait rejoint la structure en 2012, au moment où il mettait un terme à sa carrière de coureur. Il y a d'abord travaillé dans l'encadrement sportif avant d'en prendre la direction sportive en 2018. Son départ met donc fin à une présence continue de quinze saisons au sein de l'équipe.
+Charly Wegelius avait rejoint la structure en 2012, au moment où il mettait un terme à sa carrière de coureur. Il en était le directeur sportif principal depuis 2018. Son départ met donc fin à une présence continue de quinze saisons au sein de l'équipe.
 
 Les circonstances de cette séparation n'ont pas été précisées : aucune raison n'a été donnée, et aucun successeur n'a été désigné à ce stade.
 
@@ -21,8 +21,6 @@ Les circonstances de cette séparation n'ont pas été précisées : aucune rais
 
 Cette annonce intervient peu après celle d'une autre arrivée dans l'encadrement. Le 28 octobre, l'équipe a officialisé le recrutement de l'Australien Matt White comme directeur sportif pour la saison 2027. Ancien du groupe Movistar, où il se trouvait en 2026, Matt White retrouve une équipe dans laquelle il avait débuté sa carrière de directeur sportif en 2008.
 
-Rien dans les communications de l'équipe ne relie les deux informations : l'arrivée de Matt White a été présentée comme un recrutement pour 2027, et le rôle qu'il occupera aux côtés des autres directeurs sportifs n'a pas été détaillé en lien avec le départ de Charly Wegelius.
-
 ## La suite
 
-À l'approche de la saison 2027, l'organisation de l'encadrement sportif d'EF Education-EasyPost reste donc à préciser. L'équipe n'a pas indiqué quand elle communiquerait sur le sujet, ni si Charly Wegelius rejoindrait une autre structure.
+À l'approche de la saison 2027, l'organisation de l'encadrement sportif d'EF Education-EasyPost reste donc à préciser. Aucune information n'a été communiquée sur la suite donnée à ce départ.
