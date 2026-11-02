@@ -13,10 +13,8 @@ Lisa Bone courra pour EF Education-Oatly en 2027 et en 2028. La Sud-Africaine, �
 
 ## Une arrivée chez EF Education-Oatly
 
-L'engagement de Lisa Bone porte sur deux ans : elle portera les couleurs de l'équipe pour les saisons 2027 et 2028. Son arrivée figure parmi les recrutements de l'équipe pour la prochaine période.
+L'engagement de Lisa Bone porte sur deux ans : elle portera les couleurs de l'équipe pour les saisons 2027 et 2028.
 
 ## Une prolongation chez AG Insurance-Soudal
 
 De son côté, la Néerlandaise Ilse Pluimers, 24 ans, prolonge de deux saisons avec AG Insurance-Soudal. Son nouveau contrat court jusqu'à la fin de la saison 2028.
-
-Ces deux annonces s'inscrivent dans la période des mouvements d'effectifs qui suit la fin de la saison sur route : les équipes du WorldTour féminin fixent progressivement leurs contrats pour 2027 et au-delà.
