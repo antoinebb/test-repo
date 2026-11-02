@@ -6,7 +6,7 @@ format: Mercato-équipes
 description: >-
   La Sud-Africaine Lisa Bone signe deux ans chez EF Education-Oatly, la Néerlandaise Ilse Pluimers prolonge de deux saisons chez AG Insurance-Soudal.
 chapo: >-
-  Deux mouvements sont à noter dans le WorldTour féminin pour 2027 et 2028. La Sud-Africaine Lisa Bone s'engage avec EF Education-Oatly, tandis que la Néerlandaise Ilse Pluimers reste chez AG Insurance-Soudal jusqu'à fin 2028.
+  Deux mouvements sont à noter dans le peloton féminin. La Sud-Africaine Lisa Bone s'engage avec EF Education-Oatly, tandis que la Néerlandaise Ilse Pluimers reste chez AG Insurance-Soudal jusqu'à fin 2028.
 tags: ["Mercato", "Lisa Bone", "Ilse Pluimers", "EF Education-Oatly", "AG Insurance-Soudal"]
 ---
 Lisa Bone courra pour EF Education-Oatly en 2027 et en 2028. La Sud-Africaine, âgée de 27 ans, a signé un contrat de deux saisons avec la formation du WorldTour féminin.
