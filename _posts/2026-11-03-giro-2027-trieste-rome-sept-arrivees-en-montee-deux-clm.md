@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Giro 2027 : de Trieste à Rome, sept arrivées en montée et deux CLM"
+title: "Giro 2027 : de Trieste à Rome, le Zoncolan et deux CLM"
 date: 2026-11-03 18:05:00 +0100
 format: Avant-course
 description: >-
-  Giro 2027 : 21 étapes du 8 au 30 mai, 3 418,9 km, sept arrivées en montée dont le Zoncolan, et deux contre-la-montre pour 56,9 km.
+  Giro 2027 : 21 étapes du 8 au 30 mai, 3 418,9 km, arrivée au sommet du Zoncolan à la veille de Rome, et deux contre-la-montre pour 56,9 km.
 chapo: >-
-  Le parcours de la 110e édition du Giro d'Italia a été présenté à Rome. Du 8 au 30 mai 2027, entre Trieste et Rome, les coureurs affronteront sept arrivées en montée, le Monte Zoncolan à la veille de l'arrivée et deux contre-la-montre individuels.
+  Le parcours de la 110e édition du Giro d'Italia a été présenté à Rome. Du 8 au 30 mai 2027, entre Trieste et Rome, les coureurs affronteront plusieurs arrivées en montée, le Monte Zoncolan à la veille de l'arrivée et deux contre-la-montre individuels.
 tags: ["Giro 2027", "Avant-course", "Monte Zoncolan", "Contre-la-montre", "WorldTour"]
 ---
 La 110e édition du Giro d'Italia, présentée le 3 novembre à Rome, se disputera en 21 étapes, du samedi 8 au dimanche 30 mai 2027. Le parcours totalise 3 418,9 km et 50 250 m de dénivelé positif, avec un départ à Trieste et une arrivée à Rome.
@@ -15,15 +15,14 @@ La 110e édition du Giro d'Italia, présentée le 3 novembre à Rome, se dispute
 
 La première étape, le 8 mai, est une boucle Trieste - Trieste de 172 km. Le lendemain, la deuxième étape relie Ljubljana à Koper sur 166 km et se court entièrement en Slovénie.
 
-## Sept arrivées en montée
+## Des arrivées en montée
 
-Sept étapes se terminent au sommet d'une ascension :
+Plusieurs étapes se terminent au sommet d'une ascension :
 
 - étape 5, le 12 mai : Sarnano-Sassotetto ;
 - étape 9, le 16 mai : Subiaco-Monte Livata ;
 - étape 12, le 20 mai : Zeri-Passo Due Santi ;
 - étape 14, le 22 mai : Piani di Bobbio/Valtorta ;
-- étape 16, le 25 mai : Aprica ;
 - étape 18, le 27 mai : Madonna di Campiglio ;
 - étape 20, le 29 mai : Monte Zoncolan.
 
@@ -43,4 +42,4 @@ Les spécialistes disposent de deux épreuves individuelles. La première, Sulmo
 
 ## Ce que le tracé contient
 
-Le parcours compte sept arrivées en montée, un contre-la-montre dont la seconde moitié est en côte et une étape 16 à environ 5 700 m de dénivelé positif. Il comprend aussi un contre-la-montre de 37,3 km sur un parcours essentiellement plat, entre Monza et Milan.
+Le parcours compte plusieurs arrivées en montée, un contre-la-montre dont la seconde moitié est en côte et une étape 16 à environ 5 700 m de dénivelé positif. Il comprend aussi un contre-la-montre de 37,3 km sur un parcours essentiellement plat, entre Monza et Milan.
