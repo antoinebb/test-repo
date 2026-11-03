@@ -41,6 +41,6 @@ L'avant-dernière étape, Pordenone - Monte Zoncolan, se court le samedi 29 mai 
 
 Les spécialistes disposent de deux épreuves individuelles. La première, Sulmona - Campo di Giove, le 14 mai (étape 7), couvre 19,6 km et sa seconde moitié se déroule en montée. La seconde, Monza - Milan, le 23 mai (étape 15), couvre 37,3 km sur un parcours essentiellement plat. Ensemble, elles représentent 56,9 km chronométrés.
 
-## Ce que le tracé laisse entrevoir
+## Ce que le tracé contient
 
-Avec sept arrivées en altitude, un contre-la-montre en côte et une étape 16 à près de 5 700 m de dénivelé, le parcours offre de nombreuses occasions aux grimpeurs. Le contre-la-montre de 37,3 km à Milan, en revanche, laisse aussi de la place aux rouleurs. Aucune équipe n'a encore annoncé son programme pour ce Giro : les listes de partants se dessineront dans les mois qui viennent.
+Le parcours compte sept arrivées en altitude, un contre-la-montre dont la seconde moitié est en côte et une étape 16 à environ 5 700 m de dénivelé positif. Il comprend aussi un contre-la-montre de 37,3 km sur un parcours essentiellement plat, à Milan.
