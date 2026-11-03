@@ -29,7 +29,7 @@ Sept étapes se terminent au sommet d'une ascension :
 
 Le calendrier ne prévoit aucune étape les lundis 17 et 24 mai.
 
-## L'étape 16, journée la plus dure du tracé
+## L'étape 16, la plus exigeante sur le papier
 
 Sondrio - Aprica, le 25 mai, mesure 192 km. Elle comprend deux ascensions du Mortirolo et le passage du Gavia, pour environ 5 700 m de dénivelé positif.
 
@@ -43,4 +43,4 @@ Les spécialistes disposent de deux épreuves individuelles. La première, Sulmo
 
 ## Ce que le tracé contient
 
-Le parcours compte sept arrivées en altitude, un contre-la-montre dont la seconde moitié est en côte et une étape 16 à environ 5 700 m de dénivelé positif. Il comprend aussi un contre-la-montre de 37,3 km sur un parcours essentiellement plat, à Milan.
+Le parcours compte sept arrivées en montée, un contre-la-montre dont la seconde moitié est en côte et une étape 16 à environ 5 700 m de dénivelé positif. Il comprend aussi un contre-la-montre de 37,3 km sur un parcours essentiellement plat, entre Monza et Milan.
