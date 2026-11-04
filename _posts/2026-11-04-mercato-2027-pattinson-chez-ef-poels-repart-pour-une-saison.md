@@ -30,4 +30,4 @@ Les Français Rémi Daumas et Victor Loulergue quittent la formation continental
 
 ## Un mercato de filières
 
-Ces trois dossiers dessinent un même tableau : les équipes WorldTour continuent de puiser dans leurs filières de formation pour renouveler leurs effectifs, pendant qu'un coureur expérimenté choisit de prolonger l'aventure une année supplémentaire. D'autres annonces sont attendues dans les prochaines semaines, à mesure que les équipes finalisent leur composition pour 2027.
+Ces trois dossiers dessinent un même tableau : les équipes WorldTour continuent de puiser dans leurs filières de formation pour renouveler leurs effectifs, pendant qu'un coureur expérimenté choisit de prolonger l'aventure une année supplémentaire.
