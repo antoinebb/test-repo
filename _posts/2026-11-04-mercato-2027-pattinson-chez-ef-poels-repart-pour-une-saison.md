@@ -20,7 +20,7 @@ La durée de son contrat n'a pas été communiquée.
 
 ## Wout Poels : une saison de plus
 
-Le Néerlandais Wout Poels, 39 ans, a annoncé lui-même, lors du gala du cyclisme néerlandais le 2 novembre, qu'il repoussait sa retraite et disputerait une dernière saison en 2027 avec Unibet Rose Rockets, équipe ProTeam. Il l'avait rejointe pour 2026, sous contrat d'un an, après une saison chez XDS Astana.
+Le Néerlandais Wout Poels, 39 ans, a annoncé lui-même, lors du gala du cyclisme néerlandais le 2 novembre, qu'il repoussait sa retraite et disputerait une dernière saison en 2027 avec Unibet Rose Rockets, équipe ProTeam. Il l'avait rejointe pour 2026, après une saison chez XDS Astana.
 
 À ce stade, l'équipe n'a pas publié d'annonce à ce sujet : il s'agit d'une annonce du coureur, pas d'un contrat présenté officiellement par sa formation.
 
