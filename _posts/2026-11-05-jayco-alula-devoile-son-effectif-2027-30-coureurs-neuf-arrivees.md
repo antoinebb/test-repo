@@ -10,7 +10,7 @@ chapo: >-
 tags: ["Mercato", "Jayco AlUla", "Saison 2027", "Mikkel Honoré", "Sam Welsford"]
 ---
 
-Team Jayco AlUla a publié le 4 novembre la composition de son effectif pour la saison 2027. La formation s'appuiera sur 30 coureurs, parmi lesquels neuf nouveaux visages. L'annonce rassemble des arrivées dévoilées au fil de l'automne et en ajoute de nouvelles, tandis que deux coureurs quittent la compétition.
+Team Jayco AlUla a publié le 4 novembre la composition de son effectif pour la saison 2027. La formation s'appuiera sur 30 coureurs, parmi lesquels neuf nouveaux visages. Deux coureurs, par ailleurs, quittent la compétition.
 
 ## Neuf arrivées pour 2027
 
