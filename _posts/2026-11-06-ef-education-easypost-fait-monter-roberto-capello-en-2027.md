@@ -4,13 +4,13 @@ title: "EF Education-EasyPost fait monter Roberto Capello en 2027"
 date: 2026-11-06 18:05:00 +0100
 format: Mercato-équipes
 description: >-
-  L'Italien Roberto Capello, 19 ans, passe d'EF Education-Aevolo à l'équipe WorldTour EF Education-EasyPost en 2027, après Gavin Hlady et Tomos Pattinson.
+  L'Italien Roberto Capello, 19 ans, passe d'EF Education-Aevolo à l'équipe WorldTour EF Education-EasyPost en 2027, après Gavin Hlady.
 chapo: >-
-  L'Italien Roberto Capello, 19 ans, quitte l'équipe de développement EF Education-Aevolo pour rejoindre l'équipe WorldTour EF Education-EasyPost à partir de 2027. Il suit Gavin Hlady et Tomos Pattinson, eux aussi promus pour la saison prochaine.
+  L'Italien Roberto Capello, 19 ans, quitte l'équipe de développement EF Education-Aevolo pour rejoindre l'équipe WorldTour EF Education-EasyPost à partir de 2027. Il suit Gavin Hlady, lui aussi promu pour la saison prochaine.
 tags: ["Mercato", "EF Education-EasyPost", "Saison 2027", "Championnats d’Europe"]
 ---
 
-En pleine intersaison, EF Education-EasyPost continue de composer son effectif pour 2027. En quelques jours, l'équipe WorldTour a officialisé l'arrivée de trois coureurs passés par sa formation de développement, EF Education-Aevolo : l'Américain Gavin Hlady, le Britannique Tomos Pattinson et, annoncé le 5 novembre, l'Italien Roberto Capello.
+En pleine intersaison, EF Education-EasyPost continue de composer son effectif pour 2027. En quelques jours, l'équipe WorldTour a officialisé l'arrivée de deux coureurs passés par sa formation de développement, EF Education-Aevolo : l'Américain Gavin Hlady, puis, annoncé le 5 novembre, l'Italien Roberto Capello.
 
 ## Roberto Capello, un jeune Italien déjà distingué chez les juniors
 
@@ -22,12 +22,8 @@ Ces deux résultats datent de la même saison 2025 : l'un a été obtenu en cour
 
 La veille de l'annonce concernant Capello, l'équipe avait déjà officialisé la promotion de Gavin Hlady. L'Américain, âgé de 23 ans, est deux fois champion des États-Unis espoirs sur route. Comme Capello, il quitte EF Education-Aevolo pour l'équipe WorldTour à partir de 2027.
 
-## Tomos Pattinson, un parcours passé par Visma
-
-Le Britannique Tomos Pattinson, 21 ans, rejoint lui aussi l'équipe WorldTour EF Education-EasyPost à partir de 2027. Son parcours est un peu différent : il est passé par l'équipe de développement de Visma | Lease a Bike en 2024 et 2025, puis par EF Education-Aevolo en 2026, avant ce nouveau cap.
-
 ## Ce que l'on sait, et ce que l'on ignore
 
-Pour ces trois coureurs, la durée du contrat n'a pas été communiquée. Cet article s'en tient donc aux éléments confirmés : l'identité des coureurs, leur âge, leur parcours et la date d'entrée en vigueur de leur promotion, fixée à la saison 2027.
+Pour ces deux coureurs, la durée du contrat n'a pas été communiquée. Cet article s'en tient donc aux éléments confirmés : l'identité des coureurs, leur âge, leur parcours et la date d'entrée en vigueur de leur promotion, fixée à la saison 2027.
 
-Les trois arrivées ont en commun de concerner des coureurs de moins de 24 ans (19, 21 et 23 ans), tous passés par EF Education-Aevolo et tous attendus dans l'équipe WorldTour EF Education-EasyPost à partir de 2027. Leurs nationalités diffèrent : italienne pour Capello, américaine pour Hlady et britannique pour Pattinson.
+Les deux arrivées ont en commun de concerner des coureurs de moins de 24 ans (19 et 23 ans), tous deux passés par EF Education-Aevolo et attendus dans l'équipe WorldTour EF Education-EasyPost à partir de 2027. Leurs nationalités diffèrent : italienne pour Capello, américaine pour Hlady.
