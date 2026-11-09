@@ -10,7 +10,7 @@ chapo: >-
 tags: ["Avant-course", "Paul Seixas", "Critérium de Saitama"]
 ---
 
-Le Tour de France Saitama Criterium se tiendra le dimanche 15 novembre 2026 autour de la gare de Saitama-Shintoshin, au Japon. La date et le lieu ont été fixés par la ville de Saitama, coorganisatrice de l'événement.
+Le Tour de France Saitama Criterium se tiendra le dimanche 15 novembre 2026 autour de la gare de Saitama-Shintoshin, au Japon. La date et le lieu ont été annoncés par la ville de Saitama, coorganisatrice de l'événement.
 
 ## Un plateau de 60 coureurs
 
@@ -18,4 +18,4 @@ La liste des participants a été arrêtée le 30 octobre : elle réunit 60 cour
 
 ## Un remplacement et trois forfaits
 
-Le plateau a connu quelques changements. Dries De Pooter remplace Felix Engelhardt. Par ailleurs, Philipsen, Girmay et Carapaz avaient déclaré forfait le 6 octobre.
+Le plateau a connu quelques changements. Dries De Pooter remplace Felix Engelhardt. Par ailleurs, le forfait de Philipsen, Girmay et Carapaz a été annoncé le 6 octobre par l'organisation.
