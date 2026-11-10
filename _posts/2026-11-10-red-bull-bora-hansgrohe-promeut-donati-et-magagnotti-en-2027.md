@@ -14,11 +14,11 @@ L'équipe WorldTour Red Bull-BORA-hansgrohe a annoncé lundi 9 novembre que deux
 
 ## Donati, vainqueur de Paris-Roubaix Espoirs
 
-Davide Donati s'est imposé sur Paris-Roubaix Espoirs le 12 avril 2026, à l'issue d'un sprint décidé à la photo-finish. Il courait alors sous les couleurs de l'équipe de développement de Red Bull-BORA-hansgrohe, qu'il quittera donc pour la formation WorldTour.
+Davide Donati s'est imposé sur Paris-Roubaix Espoirs le 12 avril 2026, au sprint. Il courait alors sous les couleurs de l'équipe de développement de Red Bull-BORA-hansgrohe, qu'il quittera donc pour la formation WorldTour.
 
 ## Magagnotti, vainqueur d'étape sur le Deutschland Tour
 
-Alessio Magagnotti, lui, a remporté la 2e étape du Deutschland Tour le 21 août 2026, à Offenbach an der Queich. Il avait 19 ans au moment de cette victoire au sprint, obtenue sur une épreuve du calendrier professionnel.
+Alessio Magagnotti, lui, a remporté la 2e étape du Deutschland Tour le 21 août 2026, à Offenbach an der Queich. Il avait 19 ans au moment de cette victoire au sprint.
 
 ## Ce que l'on sait pour 2027
 
