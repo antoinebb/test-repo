@@ -1,24 +1,25 @@
 ---
 layout: post
-title: "Paul Penhoët rejoint Picnic PostNL, qui recrute aussi trois coureurs"
+title: "Paul Penhoët rejoint Picnic PostNL, qui recrute aussi deux coureurs"
 date: 2026-11-11 18:15:00 +0100
 format: Mercato-équipes
 description: >-
-  Le sprinteur français Paul Penhoët quitte Groupama-FDJ United pour Picnic PostNL (2027-2028). L'équipe recrute aussi Louka Lesueur, Jochem Kerckhaert et Bert Bolle.
+  Le sprinteur français Paul Penhoët quitte Groupama-FDJ United pour Picnic PostNL (2027-2028). L'équipe recrute aussi Louka Lesueur et Jochem Kerckhaert.
 chapo: >-
-  Le sprinteur français Paul Penhoët quitte Groupama-FDJ United, où il a passé sept saisons, et rejoint Picnic PostNL pour 2027 et 2028. L'équipe néerlandaise enregistre aussi les arrivées de Louka Lesueur, Jochem Kerckhaert et Bert Bolle.
+  Le sprinteur français Paul Penhoët quitte Groupama-FDJ United, où il a passé sept saisons, et rejoint Picnic PostNL pour 2027 et 2028. L'équipe néerlandaise enregistre aussi les arrivées de Louka Lesueur et Jochem Kerckhaert, ainsi que la promotion de Bert Bolle.
 tags: ["Mercato", "Paul Penhoët", "Picnic PostNL", "Saison 2027"]
 ---
 
 Paul Penhoët change d'équipe. Le sprinteur français, qui a passé sept saisons chez Groupama-FDJ United, d'abord dans l'équipe de développement puis dans l'équipe WorldTour, a rejoint Picnic PostNL. Son transfert, annoncé le 10 novembre, porte sur deux saisons : 2027 et 2028.
 
-## Trois autres arrivées
+## Deux autres arrivées et une promotion
 
-Penhoët n'est pas la seule recrue de Picnic PostNL pour 2027. L'équipe néerlandaise a aussi enregistré les arrivées de trois autres coureurs :
+Penhoët n'est pas la seule recrue de Picnic PostNL pour 2027. L'équipe néerlandaise a aussi enregistré l'arrivée de deux autres coureurs :
 
-- le Français Louka Lesueur, champion de France amateur 2026, qui évoluait au VC Rouen 76 et passe professionnel ;
-- le Néerlandais Jochem Kerckhaert, qui courait au BEAT CC p/b Saxo ;
-- le Belge Bert Bolle, qui portait les couleurs de VolkerWessels.
+- Louka Lesueur, qui évoluait au VC Rouen 76 et passe professionnel ;
+- Jochem Kerckhaert, qui courait au BEAT CC p/b Saxo.
+
+Bert Bolle, lui, était déjà présent dans la structure de l'équipe et est promu dans l'effectif principal.
 
 ## Ce que l'on ne sait pas encore
 
