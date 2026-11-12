@@ -6,7 +6,7 @@ format: Avant-course
 description: >-
   Euro route 2027 au Danemark, du 28 septembre au 3 octobre : contre-la-montre à Silkeborg, courses en ligne à Herning.
 chapo: >-
-  Les Championnats d'Europe sur route 2027 se tiendront au Danemark, du 28 septembre au 3 octobre. Le contre-la-montre est prévu à Silkeborg, les courses en ligne à Herning, ville qui avait déjà accueilli l'événement en 2017.
+  Le Danemark recevra les Championnats d'Europe sur route entre le 28 septembre et le 3 octobre 2027. Silkeborg sera le cadre des épreuves chronométrées, et Herning, qui avait organisé l'édition 2017, celui des courses en ligne.
 tags: ["Championnats d’Europe", "Avant-course", "Saison 2027"]
 ---
 
@@ -14,11 +14,11 @@ Les Championnats d'Europe sur route 2027 auront lieu au Danemark. L'Union europ�
 
 ## Une semaine de compétition en fin de saison
 
-Les championnats se dérouleront du 28 septembre au 3 octobre 2027. Deux villes se partageront l'événement : Silkeborg accueillera les épreuves de contre-la-montre, tandis que les courses en ligne seront disputées à Herning. Le déroulé précis des épreuves, jour par jour, n'est pas détaillé à ce stade.
+Les championnats se dérouleront du 28 septembre au 3 octobre 2027. L'événement sera réparti entre deux villes : les contre-la-montre se joueront à Silkeborg, et c'est à Herning que les coureurs se retrouveront pour les courses en ligne.
 
 ## Herning, un retour après dix ans
 
-Herning est une habituée de l'événement : la ville avait déjà accueilli les Championnats d'Europe sur route du 2 au 6 août 2017. Le Danemark retrouvera donc ces championnats dix ans après cette édition.
+Herning avait organisé les Championnats d'Europe sur route du 2 au 6 août 2017. Le Danemark retrouvera donc ces championnats dix ans après cette édition.
 
 ## Les deux éditions suivantes déjà attribuées
 
