@@ -12,13 +12,13 @@ tags: ["Mercato", "Gaia Realini", "Lidl-Trek", "Picnic PostNL", "Saison 2027"]
 
 ## Une annonce faite par la coureuse
 
-Gaia Realini portera les couleurs de Picnic PostNL en 2027. L'Italienne, née le 19 juin 2001 et âgée de 25 ans, l'a annoncé elle-même le 12 novembre sur Instagram. Picnic PostNL est une équipe néerlandaise engagée dans le Women's WorldTour. La coureuse y arrive après quatre saisons passées chez Lidl-Trek, de 2023 à 2026, soit toute la durée de son passage dans cette formation.
+Gaia Realini portera les couleurs de Picnic PostNL en 2027. L'Italienne, née le 19 juin 2001 et âgée de 25 ans, l'a annoncé elle-même le 12 novembre sur Instagram. Picnic PostNL est une équipe néerlandaise. La coureuse y arrive après quatre saisons passées chez Lidl-Trek, de 2023 à 2026, soit toute la durée de son passage dans cette formation.
 
 Au début du mois d'octobre, Lidl-Trek avait annoncé qu'elle et Gaia Realini se séparaient d'un commun accord à la fin de la saison 2026, sans que sa future destination soit connue à ce moment-là.
 
 ## Un contrat qui courait jusqu'à fin 2027
 
-Gaia Realini avait rejoint Lidl-Trek en 2023. Le 19 février 2024, l'équipe avait annoncé la prolongation de son contrat jusqu'en 2027. La séparation décidée en octobre intervient donc un an avant le terme prévu de cet engagement. Lidl-Trek a présenté cette séparation comme mutuelle, à l'issue de discussions entre les deux parties.
+Gaia Realini avait rejoint Lidl-Trek en 2023. Le 19 février 2024, l'équipe avait annoncé la prolongation de son contrat jusqu'en 2027. La séparation décidée en octobre intervient donc un an avant le terme prévu de cet engagement. Lidl-Trek a présenté cette séparation comme mutuelle.
 
 ## Une première saison remarquée en 2023
 
