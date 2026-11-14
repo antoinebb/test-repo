@@ -6,14 +6,14 @@ format: Mercato-équipes
 description: >-
   Le Français Florian Sénéchal, 33 ans, s'engage pour un an avec la ProTeam Unibet Rose Rockets, qui a annoncé sa signature le 13 novembre.
 chapo: >-
-  Florian Sénéchal portera les couleurs d'Unibet Rose Rockets en 2027. L'équipe française de deuxième division a annoncé le 13 novembre la signature du coureur de 33 ans, ancien champion de France, pour une saison.
+  Florian Sénéchal portera les couleurs d'Unibet Rose Rockets en 2027. L'équipe française de catégorie ProTeam a annoncé le 13 novembre la signature du coureur de 33 ans, ancien champion de France, pour une saison.
 tags: ["Mercato", "Florian Sénéchal", "Unibet Rose Rockets", "ProTeam"]
 ---
-Unibet Rose Rockets a officialisé, vendredi 13 novembre, l'arrivée de Florian Sénéchal pour la saison 2027. L'annonce a été faite sur le compte de l'équipe sur le réseau social X, accompagnée d'une vidéo de bienvenue. Le coureur, âgé de 33 ans, est engagé pour un an.
+Unibet Rose Rockets a officialisé, vendredi 13 novembre, l'arrivée de Florian Sénéchal pour la saison 2027. L'annonce a été faite sur le compte de l'équipe sur le réseau social X, accompagnée d'une vidéo. Le coureur, âgé de 33 ans, est engagé pour un an.
 
 ## Une signature pour une saison
 
-Le contrat de Florian Sénéchal porte sur la seule saison 2027. Le Français rejoint une formation de la catégorie ProTeam, la deuxième division du cyclisme sur route.
+Le contrat de Florian Sénéchal porte sur la seule saison 2027. Le Français rejoint une formation française de la catégorie ProTeam.
 
 Son arrivée met fin à une saison 2026 passée chez Alpecin-Premier Tech. 
 
