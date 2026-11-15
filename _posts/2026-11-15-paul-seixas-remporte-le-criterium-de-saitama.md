@@ -13,4 +13,4 @@ Paul Seixas (Decathlon CMA CGM) a remporté, dimanche 15 novembre, le Tour de Fr
 
 ## Un circuit de 3,7 km
 
-L'épreuve se dispute sur un circuit urbain de 3,7 kilomètres, à parcourir 17 fois.
+L'épreuve se dispute sur un circuit de 3,7 kilomètres, à parcourir 17 fois.
