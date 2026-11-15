@@ -21,6 +21,6 @@ L'épreuve se dispute sur un circuit urbain de 3,7 kilomètres autour de la gare
 
 ## Une échappée à quatre dans le final
 
-Quatre coureurs se détachent à trois tours de l'arrivée : Paul Seixas, Brandon McNulty, Torstein Træen et le Britannique Oscar Onley (Netcompany INEOS). C'est parmi eux que se joue la victoire, et c'est Seixas qui lève les bras, devant McNulty et Træen.
+Quatre coureurs se détachent à trois tours de l'arrivée : Paul Seixas, Brandon McNulty, Torstein Træen et Oscar Onley (Netcompany INEOS). C'est parmi eux que se joue la victoire.
 
 Cette course était la seule de la journée : aucune épreuve du calendrier WorldTour, ProSeries ou de classe 1 n'était au programme ce 15 novembre, en pleine intersaison.
