@@ -10,7 +10,7 @@ chapo: >-
 tags: ["Mercato", "WorldTour", "Saison 2027", "Équipe de France"]
 ---
 
-L'équipe féminine WorldTour FDJ United-Suez change de visage pour 2027. L'annonce a été faite le 16 novembre 2026 : TotalEnergies s'engage à ses côtés comme co-partenaire titre, pour une durée de cinq saisons.
+L'équipe féminine FDJ United-Suez, classée UCI Women's WorldTeam, change de visage pour 2027. L'annonce a été faite le 16 novembre 2026 : TotalEnergies s'engage à ses côtés comme co-partenaire titre, pour une durée de cinq saisons.
 
 ## Ce qui change
 
@@ -18,12 +18,12 @@ Le nouveau partenariat prend effet le 1er janvier 2027. À cette date, l'équipe
 
 L'engagement est conclu pour cinq saisons.
 
-## Les mots de l'équipe
+## Les mots de l'équipe et du partenaire
 
-Stephen Delcourt, manager général de l'équipe, a déclaré qu'avec TotalEnergies, « deux grandes entreprises françaises s'unissent derrière un projet sportif et humain ». Il a également adressé un remerciement au groupe Suez, qui, a-t-il souligné, a permis à l'équipe de franchir de nombreux caps depuis 2022.
+Stephen Delcourt, manager général de l'équipe, a remercié le groupe Suez, qui a permis à l'équipe de franchir de nombreux caps depuis 2022.
 
-Patrick Pouyanné, PDG de TotalEnergies, a rappelé de son côté que le groupe soutient l'équipe masculine TotalEnergies depuis plus de dix ans, et que cet engagement dans le cyclisme se poursuit avec ce nouveau partenariat dans le peloton féminin.
+Patrick Pouyanné, PDG de TotalEnergies, a déclaré : « Après plus de 10 ans en soutien de l'équipe masculine TotalEnergies, TotalEnergies poursuit son engagement dans le cyclisme en se tournant vers le cyclisme féminin. »
 
 ## Un nom qui évolue pour la saison 2027
 
-Pour les suiveurs du peloton féminin, le principal repère à retenir est donc celui du calendrier : jusqu'au 31 décembre 2026, l'équipe reste FDJ United-Suez ; à partir du 1er janvier 2027, elle court sous le nom de Team TotalEnergies-FDJ United. Il ne faut pas confondre cette formation féminine avec l'équipe masculine TotalEnergies, qui est une structure distincte.
+Pour les suiveurs du peloton féminin, le principal repère à retenir est celui du calendrier : jusqu'au 31 décembre 2026, l'équipe reste FDJ United-Suez ; à partir du 1er janvier 2027, elle court sous le nom de Team TotalEnergies-FDJ United.
