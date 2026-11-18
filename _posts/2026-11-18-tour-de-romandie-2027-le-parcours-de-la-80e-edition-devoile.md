@@ -4,7 +4,7 @@ title: "Tour de Romandie 2027 : le parcours de la 80e édition dévoilé"
 date: 2026-11-18 18:14:00 +0100
 format: Avant-course
 description: >-
-  Le Tour de Romandie 2027 (27 avril-2 mai) s'élancera par un prologue à Yverdon-les-Bains et se jouera sur deux efforts chronométrés, puis à Sierre.
+  Tour de Romandie 2027 (27 avril-2 mai) : prologue à Yverdon-les-Bains, contre-la-montre à Vully-les-Lacs, étape de montagne à Sierre, final à Moutier.
 chapo: >-
   Les organisateurs ont présenté le 18 novembre le parcours de la 80e édition du Tour de Romandie, course du calendrier UCI WorldTour prévue du 27 avril au 2 mai 2027. Elle comprendra un prologue, un contre-la-montre individuel et une étape de montagne.
 tags: ["Tour de Romandie", "WorldTour", "Avant-course", "Saison 2027"]
