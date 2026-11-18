@@ -25,4 +25,4 @@ Le dossier de presse ne précise pas les distances des étapes. Ces informations
 
 ## Primeo Energie, sponsor principal
 
-Autre annonce pour les deux prochaines saisons : Primeo Energie, partenaire du Tour de Romandie depuis 2022, devient sponsor principal des courses masculine et féminine pour 2027 et 2028. Son logo figurera sur les maillots jaunes de leader.
+Autre annonce pour les deux prochaines saisons : Primeo Energie, partenaire du Tour de Romandie depuis 2022, devient sponsor principal des courses masculine et féminine pour 2027 et 2028. Le fournisseur d'énergie s'affichera désormais sur les maillots jaunes des leaders.
