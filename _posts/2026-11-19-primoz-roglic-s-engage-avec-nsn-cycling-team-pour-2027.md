@@ -13,7 +13,7 @@ Primož Roglič courra sous les couleurs de NSN Cycling Team en 2027. L'équipe,
 
 ## Un contrat d'un an
 
-L'annonce officielle précise la durée de l'engagement : une saison, 2027. Elle ne dit rien de plus sur le programme de course du coureur ni sur ses objectifs pour l'année à venir, ces éléments ne sont donc pas détaillés ici.
+L'annonce officielle précise la durée de l'engagement : une saison, 2027. Elle ne détaille pas le programme de course du coureur ni ses objectifs pour l'année à venir.
 
 L'équipe met en avant le palmarès de Primož Roglič : quatre Vuelta a España, un Giro d'Italia et une médaille d'or olympique. Le coureur a commenté son choix en quelques mots : « I always like challenges », a déclaré Roglič, en expliquant qu'il aime les défis. De son côté, le directeur général de l'équipe, Kjell Carlström, a déclaré : « It was an easy decision to make. »
 
