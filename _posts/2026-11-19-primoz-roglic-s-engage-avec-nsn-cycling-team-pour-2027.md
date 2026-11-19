@@ -25,7 +25,7 @@ L'engagement de Roglič figure ainsi parmi les signatures annoncées par NSN pou
 
 ## Cube remplace Scott
 
-La journée du 19 novembre a apporté une autre annonce côté matériel : à partir de 2027, NSN Cycling Team roulera sur des vélos Cube. L'équipe avait utilisé des vélos Scott en 2026, après plusieurs saisons passées sur Factor. La durée de l'accord conclu avec Cube n'a pas été précisée.
+La journée du 19 novembre a apporté une autre annonce côté matériel : à partir de 2027, NSN Cycling Team roulera sur des vélos Cube. L'équipe avait utilisé des vélos Scott en 2026. La durée de l'accord conclu avec Cube n'a pas été précisée.
 
 Cette annonce a été faite le lendemain de celle de la signature de Roglič.
 
