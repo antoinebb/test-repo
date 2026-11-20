@@ -15,7 +15,7 @@ Le plateau du Santos Tour Down Under 2027 prend forme. L'organisation a confirm�
 
 Tudor Pro Cycling n'est pas une inconnue de l'épreuve : l'équipe y a fait ses débuts en janvier 2026 et a terminé quatrième du classement général avec Marco Brenner. Pinarello-Q36.5, elle, disputera en 2027 son premier Tour Down Under. Elle s'appuiera sur Chris Harper, originaire d'Australie-Méridionale, qui connaît donc bien les routes de la course.
 
-Ces deux annonces font suite à celle de Jai Hindley, qui défendra les couleurs de Red Bull-BORA-hansgrohe. L'Australien a remporté le Giro d'Italia 2022. Les trois coureurs ont chacun gagné des étapes sur un Grand Tour. L'organisation indique que d'autres noms seront annoncés dans les prochaines semaines : aucune autre participation n'est confirmée à ce stade.
+Ces deux annonces font suite à celle de Jai Hindley, qui défendra les couleurs de Red Bull-BORA-hansgrohe. L'Australien a remporté le Giro d'Italia 2022. Les trois coureurs ont chacun gagné des étapes sur un Grand Tour. Le directeur de course, Stuart O'Grady, laisse entendre que d'autres annonces suivront.
 
 ## Une édition plus longue que jamais
 
