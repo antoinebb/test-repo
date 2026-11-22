@@ -14,4 +14,4 @@ La saison 2027 débutera sans l'AlUla Tour. Née en 2020 sous le nom de Saudi To
 
 C'est ASO, co-organisateur de l'épreuve, qui fait savoir que la fédération saoudienne n'a pas déposé d'inscription pour cette édition. À ce stade, aucun motif officiel n'a été communiqué.
 
-Pour les équipes et les coureurs, la reprise de janvier se fera donc sans ce rendez-vous. Aucune annonce officielle sur d'éventuels ajustements de programme n'a été relevée à ce stade.
+Pour les équipes et les coureurs, la saison se déroulera donc sans ce rendez-vous.
