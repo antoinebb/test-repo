@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le pape Léon XIV reçoit une centaine de cyclistes au Vatican"
+title: "Léon XIV devait recevoir une centaine de cyclistes au Vatican"
 date: 2026-11-23 18:15:00 +0100
 format: Compte rendu
 description: >-
@@ -10,7 +10,7 @@ chapo: >-
 tags: ["Léon XIV", "Vatican", "UCI", "Intersaison"]
 ---
 
-Le lundi 23 novembre 2026, le pape Léon XIV devait recevoir au Vatican une centaine d'invités du monde du cyclisme, venus de plusieurs pays. La rencontre est promue par le Dicastère pour la culture et l'éducation, en collaboration avec l'Union cycliste internationale (UCI), et organisée avec Athletica Vaticana, membre de l'UCI.
+Le lundi 23 novembre 2026, le pape Léon XIV devait recevoir au Vatican une centaine d'invités du monde du cyclisme, annoncés comme venus de plusieurs pays. La rencontre est promue par le Dicastère pour la culture et l'éducation, en collaboration avec l'Union cycliste internationale (UCI), et organisée avec Athletica Vaticana, membre de l'UCI.
 
 ## Qui était invité
 
