@@ -10,11 +10,11 @@ chapo: >-
 tags: ["Mercato", "Netcompany Ineos", "Egan Bernal", "Prolongation"]
 ---
 
-Netcompany INEOS a confirmé le 24 novembre 2026 qu'Egan Bernal avait signé un nouveau contrat avec la formation britannique. Le communiqué de l'équipe ne mentionne pas la durée de cet engagement ni les conditions financières.
+Netcompany INEOS a confirmé le 24 novembre 2026 qu'Egan Bernal avait signé un nouveau contrat avec l'équipe. Le communiqué de l'équipe ne mentionne pas la durée de cet engagement ni les conditions financières.
 
 ## Un partenariat commencé en 2018
 
-Le Colombien court pour l'équipe depuis 2018. Cette collaboration a déjà donné plusieurs victoires, dont deux succès dans un Grand Tour : Bernal est devenu en 2019 le premier Colombien à remporter le Tour de France, puis il a ajouté le Giro d'Italia en 2021.
+Le Colombien court pour l'équipe depuis 2018. Cette collaboration a déjà donné plusieurs victoires, dont deux victoires sur des Grands Tours : Bernal est devenu en 2019 le premier Colombien à remporter le Tour de France, puis il a ajouté le Giro d'Italia en 2021.
 
 Depuis son retour après une grave chute à l'entraînement en 2022, il a retrouvé le plus haut niveau. En 2026, il a pris le départ du Giro d'Italia et du Tour de France.
 
