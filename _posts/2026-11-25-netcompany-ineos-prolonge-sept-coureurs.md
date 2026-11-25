@@ -12,7 +12,7 @@ tags: ["Mercato", "Netcompany Ineos", "Prolongation", "Connor Swift", "Tobias Fo
 
 Netcompany INEOS a annoncé le 24 novembre 2026 la prolongation de sept coureurs : Connor Swift, Sam Watson, Tobias Foss, Axel Laurance, Kim Heiduk, Brandon Rivera et Óscar Rodríguez. L'équipe dit s'assurer ainsi un noyau solide pour 2027 et au-delà.
 
-Geraint Thomas, Director of Racing de l'équipe, souligne que chacun de ces coureurs apporte quelque chose de différent et aura un rôle important à jouer la saison prochaine et au-delà.
+Geraint Thomas, Director of Racing de l'équipe, souligne que chacun de ces coureurs apporte quelque chose de différent et aura un rôle important à jouer dans ce que l'équipe veut accomplir.
 
 ## Des contrats de un à trois ans
 
