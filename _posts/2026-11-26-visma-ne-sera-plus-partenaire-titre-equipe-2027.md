@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visma ne sera plus partenaire-titre de l'équipe en 2027"
+title: "Visma ne sera plus partenaire-titre de l'équipe"
 date: 2026-11-26 18:15:00 +0100
 format: Mercato-équipes
 description: >-
@@ -22,7 +22,7 @@ Cette évolution reflète celle du groupe lui-même. Visma était entré dans le
 
 ## Ce qui ne change pas
 
-Visma reste partenaire technologique officiel de l'équipe. Ce rôle s'appuie, selon l'équipe, sur un long héritage de soutien technique, de la plateforme de données de course « Control Room » à un modèle d'intelligence artificielle consacré à la nutrition des coureurs.
+Visma reste partenaire technologique officiel de l'équipe. Ce rôle s'appuie, selon l'équipe, sur un solide héritage de soutien technique, de la plateforme de données de course « Control Room » à un modèle d'intelligence artificielle consacré à la nutrition des coureurs.
 
 « Alors que notre partenariat prend désormais une nouvelle forme, nous sommes ravis de rester supporters de cette fantastique équipe », a déclaré Merete Hverven, CEO de Visma.
 
