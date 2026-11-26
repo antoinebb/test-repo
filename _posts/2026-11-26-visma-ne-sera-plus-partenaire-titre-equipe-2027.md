@@ -28,7 +28,7 @@ Visma reste partenaire technologique officiel de l'équipe. Ce rôle s'appuie, s
 
 Richard Plugge, CEO de l'équipe, s'est dit ravi de la prolongation du partenariat. Il a rappelé que Visma avait cru aux ambitions de l'équipe lorsque leur collaboration a débuté en 2019, et estimé que le maintien de Visma comme Founding Partner reflète ce qui a été construit ensemble.
 
-## Sept saisons de résultats
+## Les résultats depuis 2019
 
 L'équipe a rappelé quelques jalons de cette période. Avec Visma sur son maillot, elle a remporté son premier Tour de France en 2022. En 2023, elle est devenue la première équipe à gagner le Tour d'Italie, le Tour de France et le Tour d'Espagne la même saison. La saison 2026 a apporté de nouvelles victoires sur Paris-Roubaix et sur le Giro, où Jonas Vingegaard a complété sa trilogie des grands tours.
 
