@@ -6,7 +6,7 @@ format: Mercato-équipes
 description: >-
   Le grimpeur colombien Harold Tejada est suspendu provisoirement dans une procédure liée à son passeport biologique. Son contrat avec Netcompany INEOS pour 2027 est résilié.
 chapo: >-
-  Harold Tejada est suspendu provisoirement dans le cadre d'une procédure antidopage liée à son passeport biologique. Le Colombien l'a lui-même annoncé le 27 novembre. Netcompany INEOS, qu'il devait rejoindre en 2027, a annoncé la résiliation de son contrat d'un commun accord. Aucune sanction n'a été prononcée à ce stade.
+  Harold Tejada est suspendu provisoirement dans le cadre d'une procédure antidopage liée à son passeport biologique. Le Colombien l'a lui-même annoncé le 27 novembre. Netcompany INEOS, qu'il devait rejoindre en 2027, a annoncé la fin de son contrat pour la saison 2027. Aucune sanction n'a été prononcée à ce stade.
 tags: ["Dopage", "Mercato", "Netcompany INEOS", "XDS Astana", "Harold Tejada"]
 ---
 
@@ -26,6 +26,6 @@ Le Colombien précise qu'il ne fera pas d'autre déclaration tant que la procéd
 
 ## Son contrat avec Netcompany INEOS résilié
 
-Harold Tejada devait rejoindre Netcompany INEOS en 2027. Après la révélation de sa suspension provisoire, l'équipe britannique a annoncé qu'elle et le coureur avaient convenu de résilier son contrat pour la saison 2027, avant son arrivée prévue le 1er janvier.
+Harold Tejada devait rejoindre Netcompany INEOS en 2027. Après la révélation de sa suspension provisoire, l'équipe britannique a annoncé l'annulation de son arrivée, prévue le 1er janvier, et la fin de son contrat pour la saison 2027.
 
 Harold Tejada court pour Astana depuis 2020. Il porte encore le maillot de XDS Astana, l'équipe qu'il s'apprêtait à quitter.
