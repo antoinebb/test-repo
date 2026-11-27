@@ -22,5 +22,6 @@ tags: ["Tag 1", "Tag 2", "Tag 3"]
 ```
 
 3. Corps : uniquement le corps de l'article, en Markdown ; intertitres en `## `. Jamais de liste de sources, de brief, de tableau des affirmations ni de contrôle.
+   - Caractère « | » dans le corps (ex. « Team Visma | Lease a Bike ») : toujours l'écrire `\|` (« Team Visma \| Lease a Bike »). Sinon Markdown transforme la ligne en tableau et casse la mise en page (incident du 27/11). Ne s'applique pas à l'en-tête (title, description, chapo).
 4. `git add`, `git commit -m "Publication : <titre>"`, `git push origin gh-pages`. Le site se met à jour en une à deux minutes.
 5. Pour corriger un article publié : modifier le même fichier, puis commit et push.
