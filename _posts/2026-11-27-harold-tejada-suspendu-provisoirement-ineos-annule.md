@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Harold Tejada suspendu provisoirement, INEOS annule son arrivée"
+title: "Harold Tejada suspendu provisoirement, son contrat avec INEOS résilié"
 date: 2026-11-27 21:55:00 +0100
 format: Mercato-équipes
 description: >-
-  Le grimpeur colombien Harold Tejada est suspendu provisoirement dans une procédure liée à son passeport biologique. Netcompany INEOS annule son arrivée.
+  Le grimpeur colombien Harold Tejada est suspendu provisoirement dans une procédure liée à son passeport biologique. Son contrat avec Netcompany INEOS pour 2027 est résilié.
 chapo: >-
-  Harold Tejada est suspendu provisoirement dans le cadre d'une procédure antidopage liée à son passeport biologique. Le Colombien l'a lui-même annoncé le 27 novembre. Netcompany INEOS, qu'il devait rejoindre en 2027, a annulé son arrivée. Aucune sanction n'a été prononcée à ce stade.
+  Harold Tejada est suspendu provisoirement dans le cadre d'une procédure antidopage liée à son passeport biologique. Le Colombien l'a lui-même annoncé le 27 novembre. Netcompany INEOS, qu'il devait rejoindre en 2027, a annoncé la résiliation de son contrat d'un commun accord. Aucune sanction n'a été prononcée à ce stade.
 tags: ["Dopage", "Mercato", "Netcompany INEOS", "XDS Astana", "Harold Tejada"]
 ---
 
@@ -22,10 +22,10 @@ Le règlement antidopage de l'UCI impose une suspension provisoire immédiate da
 
 Dans son communiqué, Harold Tejada insiste sur le caractère temporaire de la mesure. Il s'agit selon lui d'une suspension « qui ne constitue ni une sanction ni une décision définitive » (traduction de l'espagnol). Il indique que son équipe juridique et médicale préparera sa défense devant les instances compétentes, et qu'il a coopéré à la procédure en fournissant les informations demandées.
 
-Le Colombien précise qu'il ne fera pas d'autre déclaration tant que la procédure est en cours, et demande que sa vie privée soit respectée.
+Le Colombien précise qu'il ne fera pas d'autre déclaration tant que la procédure est en cours, en raison de la confidentialité de celle-ci.
 
-## Netcompany INEOS annule son transfert
+## Son contrat avec Netcompany INEOS résilié
 
-Harold Tejada devait rejoindre Netcompany INEOS en 2027. Le 27 novembre, l'équipe britannique a annoncé que son arrivée était annulée en raison de cette suspension provisoire.
+Harold Tejada devait rejoindre Netcompany INEOS en 2027. Après la révélation de sa suspension provisoire, l'équipe britannique a annoncé qu'elle et le coureur avaient convenu de résilier son contrat pour la saison 2027, avant son arrivée prévue le 1er janvier.
 
 Harold Tejada court pour Astana depuis 2020. Il porte encore le maillot de XDS Astana, l'équipe qu'il s'apprêtait à quitter.
