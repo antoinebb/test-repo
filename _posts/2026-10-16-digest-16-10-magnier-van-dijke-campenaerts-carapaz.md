@@ -20,13 +20,13 @@ Au classement général, Magnier reprend la tête à Biesterbos, qui portait le 
 
 ## Eneco Tour : première victoire pro pour Van Dijke
 
-Sur la 3e étape de l'Eneco Tour, entre Sittard et Watersley (110,5 km), Mick van Dijke (Red Bull-BORA-hansgrohe) a remporté la première victoire de sa carrière chez les professionnels. Victor Campenaerts (Visma | Lease a Bike) termine deuxième à 1 s et Jonas Rutsch (Lotto Intermarché) troisième à 9 s.
+Sur la 3e étape de l'Eneco Tour, entre Sittard et Watersley (110,5 km), Mick van Dijke (Red Bull-BORA-hansgrohe) a remporté la première victoire de sa carrière chez les professionnels. Victor Campenaerts (Visma \| Lease a Bike) termine deuxième à 1 s et Jonas Rutsch (Lotto Intermarché) troisième à 9 s.
 
 Campenaerts prend la tête du classement général, devant Wessel Mouris (Unibet Rose Rockets) à 15 s et Finn Fisher-Black (Red Bull-BORA-hansgrohe) à 30 s. Jakob Söderqvist (Lidl-Trek), leader au départ, a été lâché et perd la tête de la course.
 
 ## Eneco Tour féminin : Markus en solitaire
 
-Chez les femmes, la 3e étape (87,8 km) est revenue à Femke Markus (SD Worx-Protime), victorieuse en solitaire. Lieke Nooijen (Visma | Lease a Bike) prend la deuxième place et conserve la tête du classement général.
+Chez les femmes, la 3e étape (87,8 km) est revenue à Femke Markus (SD Worx-Protime), victorieuse en solitaire. Lieke Nooijen (Visma \| Lease a Bike) prend la deuxième place et conserve la tête du classement général.
 
 ## Rattrapage : les résultats officiels du contre-la-montre de Tilburg
 

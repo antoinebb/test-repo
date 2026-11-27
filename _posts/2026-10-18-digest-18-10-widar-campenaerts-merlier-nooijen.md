@@ -12,7 +12,7 @@ tags: ["Digest", "Tour du Guangxi", "Eneco Tour", "Visma-Lease a Bike", "Netcomp
 
 ## Tour du Guangxi : Widar l'emporte à Nongla
 
-Jarno Widar (Lotto Intermarché), 20 ans, a remporté la sixième et dernière étape, à Nongla, en 3 h 39 min 05 s. Tom Pidcock (Pinarello-Q36.5) termine deuxième à 6 s et Louis Barré (Visma | Lease a Bike) troisième à 10 s.
+Jarno Widar (Lotto Intermarché), 20 ans, a remporté la sixième et dernière étape, à Nongla, en 3 h 39 min 05 s. Tom Pidcock (Pinarello-Q36.5) termine deuxième à 6 s et Louis Barré (Visma \| Lease a Bike) troisième à 10 s.
 
 Dans le dernier kilomètre de la montée, Barré a attaqué, Pidcock a contré et seul Widar a pu suivre ce dernier, avant de le dépasser avant la ligne. Marco Brenner (Tudor) prend la quatrième place à 11 s, devant Martin Tjøtta (Uno-X Mobility) à 15 s, Juan Ayuso (Lidl-Trek) à 16 s, Peter Øxenberg (Netcompany Ineos) à 19 s, Clément Braz Afonso (Groupama-FDJ United) à 21 s, Afonso Eulálio (Bahrain Victorious) neuvième, et Maxim Van Gils (Red Bull-BORA-hansgrohe) à 23 s.
 
@@ -24,13 +24,13 @@ Tim Merlier (Soudal Quick-Step) a gagné au sprint la cinquième et dernière é
 
 Une échappée de Mattanja Woets, Marijn Maas et Rick Ottema a animé la course. Michiel Mouris (Red Bull-BORA-hansgrohe) les a rejoints, puis est resté seul en tête avant d'être repris dans les derniers kilomètres.
 
-Victor Campenaerts (Visma | Lease a Bike) remporte le classement général final, la première victoire de sa carrière dans une course par étapes. Wessel Mouris (Unibet Rose Rockets) termine deuxième à 15 s et Finn Fisher-Black (Red Bull-BORA-hansgrohe) troisième à 30 s.
+Victor Campenaerts (Visma \| Lease a Bike) remporte le classement général final, la première victoire de sa carrière dans une course par étapes. Wessel Mouris (Unibet Rose Rockets) termine deuxième à 15 s et Finn Fisher-Black (Red Bull-BORA-hansgrohe) troisième à 30 s.
 
 ## Eneco Tour, femmes : Truyen gagne l'étape, Nooijen la course
 
 Marthe Truyen (Fenix-Premier Tech) a remporté la dernière étape, à Arnhem, devant Scarlett Souren (VolkerWessels) et sa coéquipière Charlotte Kool (Fenix-Premier Tech).
 
-Lieke Nooijen (Visma | Lease a Bike) gagne le classement général final.
+Lieke Nooijen (Visma \| Lease a Bike) gagne le classement général final.
 
 ## Mercato en bref : Riley Sheehan chez Netcompany Ineos
 

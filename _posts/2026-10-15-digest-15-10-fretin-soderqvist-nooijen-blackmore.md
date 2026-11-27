@@ -11,7 +11,7 @@ tags: ["Digest", "Tour du Guangxi", "Eneco Tour", "Netcompany Ineos"]
 ---
 ## Tour du Guangxi : Fretin gagne, Biesterbos prend la tête
 
-Milan Fretin (Cofidis) a remporté au sprint la 3e étape, entre Jingxi et Bama, longue d'environ 212 km. Frits Biesterbos (Picnic PostNL) est deuxième et Jordi Meeus (Red Bull-BORA-hansgrohe) troisième, tous dans le même temps. Fabio Jakobsen (Visma | Lease a Bike) termine quatrième, juste au pied du podium.
+Milan Fretin (Cofidis) a remporté au sprint la 3e étape, entre Jingxi et Bama, longue d'environ 212 km. Frits Biesterbos (Picnic PostNL) est deuxième et Jordi Meeus (Red Bull-BORA-hansgrohe) troisième, tous dans le même temps. Fabio Jakobsen (Visma \| Lease a Bike) termine quatrième, juste au pied du podium.
 
 Biesterbos s'empare par la même occasion de la tête du classement général, qu'occupait Paul Magnier (Soudal Quick-Step). Magnier, leader au départ de la journée, a déchaussé dans le sprint et termine 21e de l'étape.
 

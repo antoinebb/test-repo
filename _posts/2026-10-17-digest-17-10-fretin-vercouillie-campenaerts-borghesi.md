@@ -22,11 +22,11 @@ La sixième et dernière étape relie Yizhou à Nongla.
 
 Sur la quatrième étape, entre Hoogeveen et le Col du VAM (149,8 km), Victor Vercouillie (Team Flanders-Baloise) s'impose en 3 h 26 min 22 s. Ceriel Desal (Soudal Quick-Step) et Tars Poelvoorde (Lotto Intermarché) complètent le podium, à 2 s. Rick Ottema est quatrième et Julian Vergouw cinquième, également à 2 s. Victor Campenaerts et Finn Fisher-Black figurent à 12 s.
 
-Au classement général, Victor Campenaerts (Visma | Lease a Bike) reste en tête devant Wessel Mouris (Unibet Rose Rockets) à 15 s et Finn Fisher-Black (Red Bull-BORA-hansgrohe) à 30 s.
+Au classement général, Victor Campenaerts (Visma \| Lease a Bike) reste en tête devant Wessel Mouris (Unibet Rose Rockets) à 15 s et Finn Fisher-Black (Red Bull-BORA-hansgrohe) à 30 s.
 
 ## Eneco Tour, femmes : Borghesi gagne, Nooijen reste en tête
 
-Sur le même final au Col du VAM, après 114,1 km, Letizia Borghesi (AG Insurance-Soudal) l'emporte en 2 h 58 min 05 s. Pfeiffer Georgi (Picnic PostNL) et Lieke Nooijen (Visma | Lease a Bike) la suivent à 4 s.
+Sur le même final au Col du VAM, après 114,1 km, Letizia Borghesi (AG Insurance-Soudal) l'emporte en 2 h 58 min 05 s. Pfeiffer Georgi (Picnic PostNL) et Lieke Nooijen (Visma \| Lease a Bike) la suivent à 4 s.
 
 Lieke Nooijen conserve la tête du classement général, devant Femke Markus (SD Worx-Protime) à 38 s et Letizia Borghesi à 39 s.
 

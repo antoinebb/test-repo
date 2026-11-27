@@ -10,7 +10,7 @@ chapo: >-
 tags: ["Mercato", "Visma-Lease a Bike", "Rabobank", "Sponsoring", "Cyclisme féminin"]
 ---
 
-L'équipe féminine de Team Visma | Lease a Bike change de nom pour 2027. Le 27 novembre, l'équipe a annoncé que Rabobank en devient le partenaire-titre à partir de la saison prochaine. Elle courra sous le nom Rabobank | Lease a Bike Women's Pro Cycling Team.
+L'équipe féminine de Team Visma \| Lease a Bike change de nom pour 2027. Le 27 novembre, l'équipe a annoncé que Rabobank en devient le partenaire-titre à partir de la saison prochaine. Elle courra sous le nom Rabobank \| Lease a Bike Women's Pro Cycling Team.
 
 ## Une étape de plus dans un partenariat entamé en 2025
 

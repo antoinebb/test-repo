@@ -19,7 +19,7 @@ tags: ["Digest", "Mercato", "Tour du Guangxi", "Ethan Hayter", "Visma-Lease a Bi
 
 ## Eneco Tour : les résultats du prologue de La Haye
 
-**Chez les hommes**, Jakob Söderqvist (Lidl-Trek) s'impose sur les 3,1 km avec moins d'une seconde d'avance. Wessel Mouris (Unibet Rose Rockets) prend la 2e place à 0,75 s, et Christophe Laporte (Visma | Lease a Bike) la 3e, à moins de deux secondes. Ethan Hayter (Soudal Quick-Step) termine 4e et Michiel Mouris (Red Bull-BORA-hansgrohe) 5e. Söderqvist prend la tête du classement général.
+**Chez les hommes**, Jakob Söderqvist (Lidl-Trek) s'impose sur les 3,1 km avec moins d'une seconde d'avance. Wessel Mouris (Unibet Rose Rockets) prend la 2e place à 0,75 s, et Christophe Laporte (Visma \| Lease a Bike) la 3e, à moins de deux secondes. Ethan Hayter (Soudal Quick-Step) termine 4e et Michiel Mouris (Red Bull-BORA-hansgrohe) 5e. Söderqvist prend la tête du classement général.
 
 **Chez les femmes**, Lieke Nooijen remporte le prologue devant Charlotte Kool, 2e, et Lonneke Uneken, 3e.
 

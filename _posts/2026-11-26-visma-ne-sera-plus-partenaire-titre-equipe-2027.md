@@ -10,7 +10,7 @@ chapo: >-
 tags: ["Mercato", "Visma-Lease a Bike", "Yellow B.", "Sponsoring"]
 ---
 
-Le partenariat entre Visma et l'équipe aujourd'hui appelée Team Visma | Lease a Bike change de forme. L'équipe l'a annoncé le 26 novembre : Visma devient « Founding Partner » de Yellow B., l'organisation qui gère les équipes de cyclisme courant actuellement sous le nom Team Visma | Lease a Bike, et ne sera plus partenaire-titre (« name partner »).
+Le partenariat entre Visma et l'équipe aujourd'hui appelée Team Visma \| Lease a Bike change de forme. L'équipe l'a annoncé le 26 novembre : Visma devient « Founding Partner » de Yellow B., l'organisation qui gère les équipes de cyclisme courant actuellement sous le nom Team Visma \| Lease a Bike, et ne sera plus partenaire-titre (« name partner »).
 
 ## Ce qui change
 
